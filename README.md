@@ -1,2 +1,2 @@
 # demo_git
-exercices openclassroom pour apprendre à utiliser git
+exercices openclassrooms pour apprendre à utiliser les bases de git
